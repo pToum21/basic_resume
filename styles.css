@@ -1,0 +1,19 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+header {
+    background-color: beige;
+    text-align: center;
+}
+
+main {
+    background-color: azure;
+}
+
+section {
+    border: solid rgb(124, 191, 194) 3px;
+    padding: 23px;
+}
